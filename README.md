@@ -1,5 +1,6 @@
 # rtf-journal
 Simple script to create a new RTF file with the current date as title. Created for personal use for quick access to a new journal entry. 
+Warning: This was made for personal use and file paths are hard-coded. 
 
 ## Dependencies
 - Windows OS (for using wordpad) 
