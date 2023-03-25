@@ -12,3 +12,5 @@ Warning: This was made for personal use and file paths are hard-coded.
 - Change the path names wherever applicable in the scripts.
 - Run AHK.
 - Press ctrl+J to create a new RTF file and open in windows wordpad, or simply open the wordpad file if today's file already exists.
+
+![image](https://user-images.githubusercontent.com/20708815/227737708-92280c34-b53c-446c-9f31-a251be38ece1.png)
